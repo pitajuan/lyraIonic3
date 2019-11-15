@@ -1,0 +1,8 @@
+{
+  "name": "lyraForm",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "app_id": ""
+}
